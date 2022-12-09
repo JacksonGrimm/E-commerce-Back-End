@@ -22,7 +22,7 @@ This the backend of an E-commerce-site using express and sequelize
 
 ## Installation
 
-clone the code, don't an npm i, npm run seed then npm start
+clone the code, do an npm i, npm run seed then npm start
 
 ## Media
 
